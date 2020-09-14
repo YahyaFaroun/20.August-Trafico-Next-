@@ -1,0 +1,8 @@
+div{
+    background: url("../public/Scene.png") cover;
+    list-style: ;
+    transform: translateX();
+}
+button:last-of-type{
+    color: aliceblue;
+}
